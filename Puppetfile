@@ -1,0 +1,6 @@
+forge 'forge.puppetlabs.com'
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs-ntp', '7.1.1'
+mod 'puppetlabs-motd', '1.9.0'
+mod 'puppetlabs-git', '0.5.0'
+mod 'puppet-nginx', '0.12.0'
