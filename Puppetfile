@@ -1,4 +1,3 @@
-forge 'forge.puppetlabs.com'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs-ntp', '7.1.1'
 mod 'puppetlabs-motd', '1.9.0'
